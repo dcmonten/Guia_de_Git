@@ -11,3 +11,7 @@ En el desarrollo de software, el control de las versiones del código fuente es 
 
 1.  Ayudar a las personas a entender la función de los comandos básicos de git.
 2.  Comprender la importancia del versionamiento de código en el desarrollo de software de calidad.
+
+## Índice
+
+1. [Comandos básicos](https://github.com/dcmonten/Guia_de_Git/blob/main/BASICOS.md "Básicos")
